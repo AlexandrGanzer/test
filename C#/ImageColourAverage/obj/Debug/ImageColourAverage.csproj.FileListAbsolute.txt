@@ -1,0 +1,26 @@
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\bin\Debug\ImageColourAverage.exe.config
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\bin\Debug\ImageColourAverage.exe
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\bin\Debug\ImageColourAverage.pdb
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\obj\Debug\ImageColourAverage.MainForm.resources
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\obj\Debug\ImageColourAverage.Properties.Resources.resources
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\obj\Debug\ImageColourAverage.csproj.GenerateResource.Cache
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\obj\Debug\ImageColourAverage.exe
+C:\Work\Projects\HowToSamples_Repository\ImageColourAverage\ImageColourAverage\ImageColourAverage\obj\Debug\ImageColourAverage.pdb
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\bin\Debug\ImageColourAverage.exe.config
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.exe
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.pdb
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\bin\Debug\ImageColourAverage.exe
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\bin\Debug\ImageColourAverage.pdb
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.MainForm.resources
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.Properties.Resources.resources
+C:\Users\Sergey\Downloads\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.csproj.GenerateResource.Cache
+C:\diplom\Image Colour Average\C#\ImageColourAverage\bin\Debug\ImageColourAverage.exe.config
+C:\diplom\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.exe
+C:\diplom\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.pdb
+C:\diplom\Image Colour Average\C#\ImageColourAverage\bin\Debug\ImageColourAverage.exe
+C:\diplom\Image Colour Average\C#\ImageColourAverage\bin\Debug\ImageColourAverage.pdb
+C:\diplom\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.csprojResolveAssemblyReference.cache
+C:\diplom\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.MainForm.resources
+C:\diplom\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.Properties.Resources.resources
+C:\diplom\Image Colour Average\C#\ImageColourAverage\obj\Debug\ImageColourAverage.csproj.GenerateResource.Cache
